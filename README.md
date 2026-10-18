@@ -220,4 +220,4 @@ Radmin is available as a **full free version** with all features and updates inc
 Download Radmin today and experience the power of remote control at your fingertips!
 
 ---
-**Last updated:** 2026-10-18 14:14:08 UTC
+**Last updated:** 2026-10-18 17:43:45 UTC
